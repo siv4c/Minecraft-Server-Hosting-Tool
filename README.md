@@ -20,4 +20,4 @@ Easily download the latest server.jar from Mojang, as well as the ngrok client f
 - Ability to change the Minecraft server version
 - ngrok automatic configuration with authentication
 - Ablity to change how much RAM is allocated to the server
-- GUI improvement
+- UI/UX improvement
