@@ -17,7 +17,7 @@ Easily download the latest server.jar from Mojang, as well as the ngrok client f
 - Difficulty and gamemode changing
 - Map importing
 - Offline account support
-- Ability to change the Minecraft server version
+- Ability to change the Minecraft server version (as well as Forge and Fabric)
 - ngrok automatic configuration with authentication
 - Ablity to change how much RAM is allocated to the server
 - UI/UX improvement
