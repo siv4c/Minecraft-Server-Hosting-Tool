@@ -1,7 +1,8 @@
 # Minecraft Server Hosting Tool
-**This program is a work in progress**
 
-Easily download the latest server.jar from Mojang, as well as the ngrok client for simple port-forwading
+Easily grab the latest server.jar from Mojang, as well as the ngrok agent for simple port-forwading
+
+ngrok creates a TCP tunnel to share your server with others. The free version of ngrok does not allow you to get a permanent address which means when you restart the agent, you will need to send a new address to your players.
 
 ### Requirements:
 
