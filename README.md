@@ -18,6 +18,6 @@ Easily download the latest server.jar from Mojang, as well as the ngrok client f
 - Map importing
 - Offline account support
 - Ability to change the Minecraft server version
-- ngrok automatic configuration
+- ngrok automatic configuration with authentication
 - Ablity to change how much RAM is allocated to the server
 - GUI improvement
