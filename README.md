@@ -16,6 +16,7 @@ Easily download the latest server.jar from Mojang, as well as the ngrok client f
 ### Features in development:
 - Difficulty and gamemode changing
 - Map importing
+- Offline account support
 - Ability to change the Minecraft server version
 - ngrok automatic configuration
 - Ablity to change how much RAM is allocated to the server
