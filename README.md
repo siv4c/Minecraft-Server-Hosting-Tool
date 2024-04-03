@@ -25,5 +25,5 @@ https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d
 - Forge and Fabric support
 - Run previously created servers with a built-in history
 - Check if ngrok is already authenticated
-- Ablity to change how much RAM is allocated to the server
+- Ablity to change how much RAM is allocated to the server (default is 1GB)
 - UI/UX improvement
