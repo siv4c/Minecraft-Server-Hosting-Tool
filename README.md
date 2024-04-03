@@ -18,7 +18,7 @@ https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d
 (Video is sped up, server takes up to a minute to start)
 
 ### Features in development:
-- Difficulty and gamemode changing
+- Difficulty and gamemode changing (default is survival on easy)
 - Map importing
 - Offline account support
 - Ability to change the Minecraft server version
