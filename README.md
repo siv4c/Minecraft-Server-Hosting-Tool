@@ -11,9 +11,11 @@ ngrok creates a TCP tunnel to share your server with others. The free version of
 - Latest version of [Python](https://www.python.org/downloads/)
 - [Java](https://adoptium.net/temurin/releases/) 17
 
-### Preview:
+### Tutorial:
 
 https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d-9c68-42f9-9ec9-9855a583d6a4
+
+(Video is sped up, server start takes up to a minute)
 
 ### Features in development:
 - Difficulty and gamemode changing
@@ -22,6 +24,6 @@ https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d
 - Ability to change the Minecraft server version
 - Forge and Fabric support
 - Run previously created servers with a built-in history
-- ngrok automatic configuration with authentication
+- ngrok authentication check
 - Ablity to change how much RAM is allocated to the server
 - UI/UX improvement
