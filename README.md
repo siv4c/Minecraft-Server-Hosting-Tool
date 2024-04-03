@@ -24,6 +24,6 @@ https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d
 - Ability to change the Minecraft server version
 - Forge and Fabric support
 - Run previously created servers with a built-in history
-- ngrok authentication check
+- Check if ngrok is already authenticated
 - Ablity to change how much RAM is allocated to the server
 - UI/UX improvement
