@@ -20,6 +20,7 @@ ngrok creates a TCP tunnel to share your server with others. The free version of
 - Offline account support
 - Ability to change the Minecraft server version
 - Forge and Fabric support
+- Run previously created servers with a built-in history
 - ngrok automatic configuration with authentication
 - Ablity to change how much RAM is allocated to the server
 - UI/UX improvement
