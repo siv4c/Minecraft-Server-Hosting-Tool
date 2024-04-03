@@ -15,7 +15,7 @@ ngrok creates a TCP tunnel to share your server with others. The free version of
 
 https://github.com/siv4c/Minecraft-Server-Hosting-Tool/assets/126551328/879dae5d-9c68-42f9-9ec9-9855a583d6a4
 
-(Video is sped up, server start takes up to a minute)
+(Video is sped up, server takes up to a minute to start)
 
 ### Features in development:
 - Difficulty and gamemode changing
